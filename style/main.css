@@ -320,16 +320,16 @@ hr {
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
     color: #f9f6f2;
-    background: #f2b179; }
+    background: url('../tile-sets/logos/8-Atletico-Madrid-icon.jpg'); }
   .tile.tile-16 .tile-inner {
     color: #f9f6f2;
-    background: #f59563; }
+    background: url('../tile-sets/logos/16-Chelsea-icon.jpg'); }
   .tile.tile-32 .tile-inner {
     color: #f9f6f2;
-    background: #f67c5f; }
+    background: url('../tile-sets/logos/32-Real_Madrid.jpg'); }
   .tile.tile-64 .tile-inner {
     color: #f9f6f2;
-    background: #f65e3b; }
+    background: url('../tile-sets/logos/64-bayern.jpg'); }
   .tile.tile-128 .tile-inner {
     color: #f9f6f2;
     background: #edcf72;
